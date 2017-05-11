@@ -1,7 +1,7 @@
 {
 	"name":"clx20061131/test-composer",
-	"description": "²âÊÔcomposer",
-	"keywords": ["²âÊÔcomposer"],
+	"description": "æµ‹è¯•composer",
+	"keywords": ["æµ‹è¯•composer"],
 	"license": "MIT",
 	"type": "project",
 	"require": {
