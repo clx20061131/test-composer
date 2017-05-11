@@ -3,5 +3,11 @@
 	"description": "²âÊÔcomposer",
 	"keywords": ["²âÊÔcomposer"],
 	"license": "MIT",
-	"type": "project"
+	"type": "project",
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"autoload": {
+		"psr-4": {"Clx20061131\\TestComposer\\": ""}
+	}
 }
